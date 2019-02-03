@@ -1,0 +1,2 @@
+# multiple-linear-regression
+In this project I have created a multiple linear regression model for the data.Multiple linear regression is similar to linear regression model.In linear regression there is only one independent variable but in multiple linear regresssion there are more than one independent variable.But the dependent variables is always one. It can be represented as y=b0+b1*x1+b2*x2+......+bn*xn
